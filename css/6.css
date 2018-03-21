@@ -1,0 +1,84 @@
+body {
+	height: 1700px;
+	margin: 0;
+}
+
+#main {
+	width: 900px;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	z-index: -1;
+}
+
+#one {
+	position: fixed;
+	z-index: 1;
+	top: 0px;
+	left: 0px;
+	display: none;
+}
+
+#two {
+	position: fixed;
+	z-index: 2;
+	top: 0px;
+	left: 300px;
+	display: none;
+}
+
+#three {
+	position: fixed;
+	z-index: 3;
+	top: 0px;
+	left: 600px;
+	display: none;
+}
+
+#four {
+	position: fixed;
+	z-index: 4;
+	top: 224.55px;
+	left: 0px;
+	display: none;
+}
+
+#five {
+	position: fixed;
+	z-index: 5;
+	top: 224.55px;
+	left: 300px;
+	display: none;
+}
+
+#six {
+	position: fixed;
+	z-index: 6;
+	top: 224.55px;
+	left: 600px;
+	display: none;
+}
+
+#seven {
+	position: fixed;
+	z-index: 7;
+	top: 449.1px;
+	left: 0px;
+	display: none;
+}
+
+#eight {
+	position: fixed;
+	z-index: 8;
+	top: 449.1px;
+	left: 300px;
+	display: none;
+}
+
+#nine {
+	position: fixed;
+	z-index: 9;
+	top: 449.1px;
+	left: 600px;
+	display: none;
+}
